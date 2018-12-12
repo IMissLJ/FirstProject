@@ -1,1 +1,1 @@
-Hello World !asdasda
+Hello World ! My first hello world for Git !
